@@ -2,7 +2,7 @@
 The classic LS command, but shows the hidden files too.
 
 # Demo
-![demo](./img/demo.png)
+![demo](./img/Demo.PNG)
 
 # Installation
 
