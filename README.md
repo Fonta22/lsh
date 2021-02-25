@@ -3,6 +3,7 @@ The classic LS command, but shows the hidden files too.
 
 # Demo
 ![demo](./img/Demo.PNG)
+As you can see, the command shows the hidden files. They're signalised as `---h--`
 
 # Installation
 
