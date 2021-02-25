@@ -1,10 +1,12 @@
 # Description
 The classic LS command, but shows the hidden files too.
 
+# Demo
+![demo](./img/demo.png)
+
 # Installation
 
 ## Download `.zip`
-
 In GitHub, use the option `Download code`. Then select **`Download ZIP`**.
 
 ## Modify lsh.ps1
