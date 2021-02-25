@@ -1,0 +1,1 @@
+$Global:path = "C:\Path\To\This\Directory"

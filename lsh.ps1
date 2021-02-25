@@ -1,4 +1,3 @@
-$path = "C:\Path\To\This\Directory"
-
+. path.ps1
 node $path\lsh.js
 ls -Force
